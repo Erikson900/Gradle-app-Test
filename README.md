@@ -8,7 +8,7 @@ for mac  Package manager:
 
 or check link for more detailed installation https://docs.gradle.org/current/userguide/installation.html 
 
-clone the project to you machine. 
+clone the project to your machine. 
 
 run: 
 
